@@ -1,2 +1,2 @@
 # SecureDocs
-SecureDocs: A secure, real-time note-taking app for privacy-focused collaboration. Offers end-to-end encryption, secure sharing, and intuitive document management.
+SecureDocs is a secure, real-time collaborative note-taking application designed to provide privacy-conscious users with a safe and intuitive platform for document creation and sharing. It emphasizes security, featuring end-to-end encryption and a user-friendly interface for managing documents securely.
